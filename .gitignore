@@ -1,0 +1,7 @@
+*.log
+*.smcl
+*.stswp
+.DS_Store
+Thumbs.db
+# Put non-redistributable datasets under data/local/
+data/local/
